@@ -1,1 +1,1 @@
-Collection of simply implemented C++ functions and features.
+Collection of simple C++ programs.
